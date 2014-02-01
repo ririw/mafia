@@ -1,0 +1,4 @@
+mafia
+=====
+
+A mafia server.
